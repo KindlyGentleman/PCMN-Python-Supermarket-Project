@@ -437,35 +437,35 @@ ditambahkan adalah sebagai berikut:
 - Nama Item: Pasta Gigi. Qty: 3, Harga: 15000
 
 #### Tampilan menu:
-[Tampilan Menu](doc/tampilan_menu.png)
+![Tampilan Menu](doc/tampilan_menu.png)
 
 #### Tambah item yang ditentukan:
-[Tambah Item](doc/tambah_item.png)
+![Tambah Item](doc/tambah_item.png)
 
 #### Cek Pesanan:
-[Cek Pesanan](doc/cek_pesanan.png)
+![Cek Pesanan](doc/cek_pesanan.png)
 
 ### Test 2:
 Ternyata *Customer* salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka *Customer* menggunakan method `delete_item()` untuk menghapus item. Item yang ingin dihapuskan adalah Pasta Gigi.
 
 #### Tampilan Menu dan Proses Penghapusan:
 
-[Hapus Pasta Gigi](doc/hapus_pasta_gigi.png)
+![Hapus Pasta Gigi](doc/hapus_pasta_gigi.png)
 
 ### Test 3:
 Ternyata setelah dipikir-pikir, *Customer* salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu satu, maka *Customer* cukup menggunakan method `reset_transaction()` untuk menghapus semua item yang sudah ditambahkan.
 
 #### Proses Reset Transaksi:
-[Reset Transaksi](doc/reset_transaksi.png)
+![Reset Transaksi](doc/reset_transaksi.png)
 
 ### Test 4:
 Setelah *Customer* selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method `total_price()`. Sebelum mengeluarkan output total belanja akan menampilkan item- item yang dibeli.
 
 #### Proses Penampilan Harga:
-[Proses Penampilan Harga](doc/total_harga.png)
+![Proses Penampilan Harga](doc/total_harga.png)
 
 #### Proses Pembayaran:
-[Proses Pembayaran](doc/proses_bayar.png)
+![Proses Pembayaran](doc/proses_bayar.png)
 
 <p>&nbsp;</p>
 
